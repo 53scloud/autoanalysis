@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VRWG+szZ7KHxZNEABQUxLqf7qG0WpBn8T+ug/TX/I46DVS5PdRaODQnWTkwiP8qu5TfXLtO4THyCt9JprwXAMw==",
+  "dgSpecHash": "KB1cFZ+gcYS+xilb2ZU2A1n/iXBacFkY0DAvYp5rCtTXR9kEjYwLzGhQVoRkyEcL6ls7RSZA5CAylGCdGcj3CA==",
   "success": true,
   "projectFilePath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest/AutoAnalysisTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vmuser/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

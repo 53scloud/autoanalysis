@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest/AutoAnalysisTest.csproj",
+      "projectUniqueName": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest.csproj",
       "projectName": "AutoAnalysisTest",
-      "projectPath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest/AutoAnalysisTest.csproj",
+      "projectPath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest.csproj",
       "packagesPath": "/home/vmuser/.nuget/packages/",
-      "outputPath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest/obj/",
+      "outputPath": "/home/vmuser/SC-05/autoanalysis/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vmuser/.nuget/NuGet/NuGet.Config"

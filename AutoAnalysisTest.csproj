@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<XYZProject Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -11,4 +11,4 @@
       <PackageReference Include="CsvHelper" Version="30.0.0" />
     </ItemGroup>
 
-</Project>
+</XYZProject>

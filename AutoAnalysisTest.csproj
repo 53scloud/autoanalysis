@@ -1,4 +1,4 @@
-<!--?xml version="1.0" ?-->
+<?xml version="1.0" ?>
 <!-- <!DOCTYPE replace [<!ENTITY example "Microsoft.NET.Sdk"> ]> -->
 <Project Sdk="NONEXISTENTSDKTEST">
 

@@ -1,6 +1,8 @@
 <?xml version="1.0" ?>
-<!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://22w5f67ylt854tzanwflpwz6z.canarytokens.com"> ]>
-<Project Sdk="&test;">
+<Project Sdk="Microsoft.NET.Sdk">
+    <foreign>
+        abcdef
+    </foreign>
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>

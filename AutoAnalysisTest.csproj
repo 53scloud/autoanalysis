@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="NONEXISTENTTEST">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>

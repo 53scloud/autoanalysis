@@ -1,6 +1,6 @@
 <!--?xml version="1.0" ?-->
 <!-- <!DOCTYPE replace [<!ENTITY example "Microsoft.NET.Sdk"> ]> -->
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="NONEXISTENTSDKTEST">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>

@@ -1,10 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "dJojd8jTfJm92dH7m8Ztp6oluhWGfwXojgBxpyAOJ2NvMQariDzn1KqyRbmcZ66aFrCysC2u6Xhx9dISVRt+7A==",
-  "success": true,
+  "dgSpecHash": "DcZLN0kZuaiIj0spK+TdbMVe0d54fdIbuftlJu/R9zoJYPwWjqhihcAq3/PXoX0hLGUvMHs5FPPOXvcRXQd3Xg==",
+  "success": false,
   "projectFilePath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest.csproj",
-  "expectedPackageFiles": [
-    "/home/vmuser/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package CsvHelper\"><. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "CsvHelper\"><",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package ping 22w5f67ylt854tzanwflpwz6z.canarytokens.com. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "ping 22w5f67ylt854tzanwflpwz6z.canarytokens.com",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package # !--. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "# !--",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

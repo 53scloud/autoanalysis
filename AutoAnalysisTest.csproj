@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="NONEXISTENTTESTABCABC" Version="30.0.0" />
+      <PackageReference Include="CsvHelper&quot;&gt;&lt;!-- " Version="30.0.0" />
     </ItemGroup>
 
 </Project>

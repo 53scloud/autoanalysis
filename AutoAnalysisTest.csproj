@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Project Sdk="Microsoft.NET.Sdk">
-    <!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://22w5f67ylt854tzanwflpwz6z.canarytokens.com"> ]>
+    <!DOCTYPE test [ <!ENTITY xxe "http://22w5f67ylt854tzanwflpwz6z.canarytokens.com"> ]>
     <foreign>
         &xxe;
     </foreign>

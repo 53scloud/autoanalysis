@@ -42,7 +42,7 @@
               "target": "Package",
               "version": "[30.0.0, )"
             },
-            "CsvHelper\"><": {
+            "CsvHelper": {
               "target": "Package",
               "version": "[30.0.0, )"
             },

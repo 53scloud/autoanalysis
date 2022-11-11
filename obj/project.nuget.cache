@@ -1,19 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DcZLN0kZuaiIj0spK+TdbMVe0d54fdIbuftlJu/R9zoJYPwWjqhihcAq3/PXoX0hLGUvMHs5FPPOXvcRXQd3Xg==",
+  "dgSpecHash": "iv3W6xw6bqN77/kcGz5uhw1rl0zGQg+vXyJtrNzwHO3YqOiunPF70ehVSs4ffoZyYjsPt0621/qJQ6LFyormLg==",
   "success": false,
   "projectFilePath": "/home/vmuser/SC-05/autoanalysis/AutoAnalysisTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vmuser/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512"
+  ],
   "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package CsvHelper\"><. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "CsvHelper\"><",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
     {
       "code": "NU1101",
       "level": "Error",

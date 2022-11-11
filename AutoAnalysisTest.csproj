@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <Project Sdk="Microsoft.NET.Sdk">
-    <foreign>
-        &lt;
-    </foreign>
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>

